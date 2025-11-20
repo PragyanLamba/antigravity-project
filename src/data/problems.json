@@ -1,0 +1,74 @@
+[
+    {
+        "id": "two-sum",
+        "title": "Two Sum",
+        "difficulty": "Easy",
+        "topic": "Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+        "isRecommendedForBeginners": true
+    },
+    {
+        "id": "valid-parentheses",
+        "title": "Valid Parentheses",
+        "difficulty": "Easy",
+        "topic": "Stack",
+        "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+        "isRecommendedForBeginners": true
+    },
+    {
+        "id": "merge-two-sorted-lists",
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "Easy",
+        "topic": "Linked Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "isRecommendedForBeginners": true
+    },
+    {
+        "id": "best-time-to-buy-and-sell-stock",
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "topic": "Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "isRecommendedForBeginners": true
+    },
+    {
+        "id": "group-anagrams",
+        "title": "Group Anagrams",
+        "difficulty": "Medium",
+        "topic": "Arrays",
+        "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+        "isRecommendedForBeginners": false
+    },
+    {
+        "id": "maximum-subarray",
+        "title": "Maximum Subarray",
+        "difficulty": "Medium",
+        "topic": "DP",
+        "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+        "isRecommendedForBeginners": false
+    },
+    {
+        "id": "reverse-linked-list",
+        "title": "Reverse Linked List",
+        "difficulty": "Easy",
+        "topic": "Linked Lists",
+        "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "isRecommendedForBeginners": true
+    },
+    {
+        "id": "climbing-stairs",
+        "title": "Climbing Stairs",
+        "difficulty": "Easy",
+        "topic": "DP",
+        "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+        "isRecommendedForBeginners": true
+    },
+    {
+        "id": "longest-substring-without-repeating-characters",
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "topic": "Sliding Window",
+        "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "isRecommendedForBeginners": false
+    }
+]
